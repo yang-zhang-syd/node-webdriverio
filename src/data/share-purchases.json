@@ -1,0 +1,114 @@
+[
+    {
+        "date": "2017-02-21",
+        "symbol": "NASDAQ:GOOG",
+        "num": 15,
+        "price": 830,
+        "commission": 38.6,
+        "type": "buy"
+    },
+    {
+        "date": "2017-02-21",
+        "symbol": "NASDAQ:AMZN",
+        "num": 12,
+        "price": 856.4,
+        "commission": 31.86,
+        "type": "buy"
+    },
+    {
+        "date": "2017-02-21",
+        "symbol": "NASDAQ:MSFT",
+        "num": 149,
+        "price": 64.55,
+        "commission": 29.95,
+        "type": "buy"
+    },
+    {
+        "date": "2017-02-21",
+        "symbol": "NASDAQ:MSFT",
+        "num": 149,
+        "price": 64.55,
+        "commission": 29.95,
+        "type": "buy"
+    },
+    {
+        "date": "2017-05-01",
+        "symbol": "NYSEARCA:IYW",
+        "num": 32,
+        "price": 138.85,
+        "commission": 19.95,
+        "type": "buy"
+    },
+    {
+        "date": "2017-05-01",
+        "symbol": "NYSEARCA:IYW",
+        "num": 32,
+        "price": 138.85,
+        "commission": 19.95,
+        "type": "buy"
+    },
+    {
+        "date": "2017-05-09",
+        "symbol": "NASDAQ:GOOGL",
+        "num": 7,
+        "price": 960,
+        "commission": 29.95,
+        "type": "buy"
+    },
+    {
+        "date": "2017-06-12",
+        "symbol": "NASDAQ:GOOGL",
+        "num": 11,
+        "price": 942.7848,
+        "commission": 32.15,
+        "type": "buy"
+    },
+    {
+        "date": "2017-07-11",
+        "symbol": "NASDAQ:FB",
+        "num": 64,
+        "price": 153.29,
+        "commission": 29.95,
+        "type": "buy"
+    },
+    {
+        "date": "2017-09-14",
+        "symbol": "NASDAQ:NVDA",
+        "num": 20,
+        "price": 168.9,
+        "commission": 10,
+        "type": "buy"
+    },
+    {
+        "date": "2017-09-15",
+        "symbol": "NYSE:BABA",
+        "num": 21,
+        "price": 177.84,
+        "commission": 10,
+        "type": "buy"
+    },
+    {
+        "date": "2017-09-01",
+        "symbol": "ASX:CSL",
+        "num": 24,
+        "price": 129.97,
+        "commission": 19.95,
+        "type": "buy"
+    },
+    {
+        "date": "2016-12-14",
+        "symbol": "ASX:CIM",
+        "num": 313,
+        "price": 32.158,
+        "commission": 0,
+        "type": "buy"
+    },
+    {
+        "date": "2016-07-11",
+        "symbol": "ASX:CIM",
+        "num": 262,
+        "price": 37.965,
+        "commission": 19.95,
+        "type": "buy"
+    }
+]

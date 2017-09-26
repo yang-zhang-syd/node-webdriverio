@@ -6,10 +6,13 @@
       "sourceMap": true
     },
     "files": [
-      "./node_modules/@types/node/index.d.ts"
+      "./node_modules/@types/node/index.d.ts",
+      "./node_modules/@types/jasmine/index.d.ts",
+      "./src/typings.d.ts"
     ],
     "include": [
-      "src/**/*.ts"
+      "src/**/*.ts",
+      "src/**/*.json"
     ],
     "exclude": [
       "node_modules"
