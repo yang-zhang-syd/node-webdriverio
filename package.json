@@ -1,0 +1,20 @@
+{
+  "name": "node-webdriver",
+  "version": "1.0.0",
+  "description": "a webdriver.io node.js program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./dist/index.js"
+  },
+  "author": "Yang Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "webdriverio": "^4.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.31",
+    "tsc": "^1.20150623.0",
+    "typescript": "^2.5.2"
+  }
+}
