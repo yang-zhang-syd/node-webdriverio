@@ -1,10 +1,19 @@
-export class App {
+import * as webdriverio from 'webdriverio';
 
-    public greeting() {
-        console.log('hello world');
-    }
-
+function main() {
+    var options = { desiredCapabilities: { browserName: 'chrome' } };
+    var client = webdriverio.remote(options);
+    
+    client.init()
+    .url('https://duckduckgo.com/')
+    .setValue('#search_form_input_homepage', 'WebdriverIO')
+    .click('#search_button_homepage')
+    .getTitle().then(function(title) {
+        console.log('Title is: ' + title);
+        // outputs:
+        // "Title is: WebdriverIO (Software) at DuckDuckGo"
+    })
+    .end();
 }
 
-var app = new App();
-app.greeting();
+main();

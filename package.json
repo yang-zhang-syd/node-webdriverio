@@ -9,6 +9,7 @@
   "author": "Yang Zhang",
   "license": "ISC",
   "dependencies": {
+    "@types/webdriverio": "^4.8.5",
     "lodash": "^4.17.4",
     "webdriverio": "^4.8.0"
   },
